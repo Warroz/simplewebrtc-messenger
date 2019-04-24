@@ -1,4 +1,4 @@
 # simplewebrtc-messenger
 
 
-https://warroz.github.io/simplewebrtc-messenger/
+https://webrtctristan.herokuapp.com/
